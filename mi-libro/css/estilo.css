@@ -1,0 +1,93 @@
+h1{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: underline;
+
+}
+
+body{
+    background-color: seashell;
+}
+h2 {
+    text-decoration: underline;
+    text-align: center;
+    
+}
+
+.menu{
+    text-decoration: underline;
+    box-sizing: border-box;
+    border-style: solid;
+    border-color: black;
+    text-align: center;
+    
+}
+.intro{
+    text-align: center;
+}
+
+.uno{
+    box-sizing: border-box;
+    border-style: solid;
+    text-align: justify;
+}
+.dos{
+    box-sizing: border-box;
+    border-style: solid;
+    text-align: justify;
+}
+.tres{
+    box-sizing: border-box;
+    border-style: solid;
+    text-align: justify;
+}
+.cuatro{
+    box-sizing: border-box;
+    border-style: solid;
+    text-align: justify;
+}
+.cinco{
+    box-sizing: border-box;
+    border-style: solid;
+    text-align: justify;
+}
+.seis{
+    box-sizing: border-box;
+    border-style: solid;
+    text-align: justify;
+}
+.siete{
+    box-sizing: border-box;
+    border-style: solid;
+    text-align: justify;
+}
+
+.cita{
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.emocion{
+    text-align: center;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.continua{
+    text-align: center;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+footer{
+    text-align: center;
+}
+
+.menu2{
+    margin-left: 0;
+    border-style: double;
+    text-align: center;
+    border-width: 10px;
+}
+
+
